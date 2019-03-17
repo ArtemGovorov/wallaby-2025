@@ -1,0 +1,12 @@
+{
+  "name": "wallaby-2025",
+  "version": "1.0.0",
+  "dependencies": {},
+  "devDependencies": {
+    "@babel/core": "^7.3.4",
+    "@google-cloud/monitoring": "^0.7.1",
+    "jest": "^24.5.0",
+    "typescript": "^3.3.3333"
+  },
+  "jest": {}
+}
